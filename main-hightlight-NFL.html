@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html dir='ltr' lang='en'>
+<head>
+<title> HightLight Premier NFL </title>
+<meta charset='UTF-8' />
+
+
+<link href="https://playtvthai.github.io/m3u8/css/bootstrap.css" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link href="https://playtvthai.github.io/m3u8/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="https://playtvthai.github.io/m3u8/css/normalize.css">
+<link rel="stylesheet" href="https://playtvthai.github.io/m3u8/css/custom.css">
+
+	
+<!-- Styles of Puerto Responsive Flat Buttons -->
+<link rel="stylesheet" href="https://playtvthai.github.io/m3u8/css/main.css">
+	
+<!-- Font awesome -->
+<link rel="stylesheet" href="http://hdtvdd.com/work/assets_remark/fonts/font-awesome/font-awesome.min.css">
+
+<!-- start plugins -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://playtvthai.github.io/m3u8/js/jquery-1.11.1.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:100,200,300,400,500,600,700,800,900" rel='stylesheet' type='text/css'>
+
+<script src="https://playtvthai.github.io/m3u8/js/jquery.backstretch.js"></script>
+<script src="http://hdtvdd.com/work/bootstrap-login-forms/form-2/assets/js/scripts.js"></script>
+<style type="text/css">
+
+.overlay {
+    z-index: 5;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    position:absolute;
+    text-align:left;
+	background-color:rgba(255,255,255,0);
+}
+
+.overlay-flag {
+    position:absolute;
+    z-index: 6;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    text-align:right;
+	background-color:rgba(255,255,255,0);
+
+}
+
+
+.overlay2 {
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    position:absolute;
+    text-align:left;
+	background-color:rgba(0,0,0,0.5);
+	height:60px;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-right:5px;
+	width:100%;
+	margin-left:0px;
+	margin-top:35px;
+}
+.login_botton {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 2px;
+    cursor: pointer;
+	border-radius: 4px;
+}
+
+.live_botton {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 2px;
+    cursor: pointer;
+	border-radius: 4px;
+}
+
+.login_txt {
+	border: #0A0A0A;
+	color: black;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 4px;
+	width:150px;
+    margin-top: -6px;
+
+}
+
+input:focus {
+	outline: none !important;
+	border-color: #F7AA06;
+	box-shadow: 0 0 0 5px #F7AA06;
+	border-radius: 2px
+}
+
+button:focus {
+	outline: none !important;
+	border-color: #F7AA06;
+	box-shadow: 0 0 0 5px #F7AA06;
+	border-radius: 2px;
+}
+
+a:focus img{
+	outline: none !important;
+	box-shadow: 0 0 0 5px #F7AA06;
+	border-radius: 2px;
+
+}
+
+.box-flag {
+	border: 0px;
+	background-color: rgba(255,255,255,0.0);
+	display: inline-block;
+}
+
+
+
+</style>
+<link rel="stylesheet" href="http://hdtvdd.com/work/font/stylesheet.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/8k.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="http://hdtvdd.com/work/css/overlay.css" type="text/css" charset="utf-8">
+<link href="http://hdtvdd.com/work/css/theme.css" rel="stylesheet">
+
+</head>
+<body>
+
+
+  <style>
+  .modal-header {
+    background-color: #111;
+    color:white !important;
+    text-align: center;
+    font-size: 30px;
+  }
+  .modal-footer {
+    background-color: #f9f9f9;
+  }
+  
+.group {
+  margin-bottom: 30px;
+}
+.group label {
+  font-size: 24px;
+}
+.group2 label {
+  font-size: 20px;
+}
+  
+  input[type='text'] { font-size: 24px; }
+  
+  </style>
+
+
+
+
+</div>
+ 
+<script>
+$(document).ready(function(){
+  $("#myBtn").click(function(){
+    $("#myModal").modal();
+  });
+});
+
+$(document).ready(function(){
+  $("#myBtn2").click(function(){
+    $("#myModal2").modal();
+  });
+});
+
+$(document).ready(function(){
+  $("#myBtn_vip").click(function(){
+    $("#myModal_vip").modal();
+  });
+});
+
+$(document).ready(function(){
+  $("#myBtn_cpass").click(function(){
+    $("#myModal_changepass").modal();
+  });
+});
+</script>
+
+<style type="text/css">
+.footer 
+{
+    text-align: center;
+    position : absolute;
+    bottom : -20;
+    width:99%;
+    height : 56px;
+    margin-top : 50px;
+  }
+</style>
+</header>
+	
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>       
+
+
+										
+  <div class="container" style="background-color:rgba(0,0,0,0.0); height:100%;">
+     <div class="container_wrap">
+     	<div class="row" style="background-color:#27282c;border-radius:5px">
+        	<div class="col-lg-12 col-md-12 col-xs-12" style="margin-top:10px;margin-bottom:10px;">
+            	<div class="row" >
+			<div class="col-lg-2 col-md-2 col-sm-5 col-xs-5">
+				<div class="logo">
+				</div>
+			</div>
+
+
+		<div class="col-lg-10 col-md-12 col-xs-12">
+		<div class="col-lg-12 col-md-12 col-xs-12" align="left" style="padding-top:0px;padding-bottom:5px;padding-left:5px;padding-right:5px">
+            <form class="form-inline">
+                <div class="form-group" style="margin:5px;">
+
+                
+					<form action="" method="get" name="lange">
+						<input name="lange" type="hidden" id="lange" value="en">
+						<input type="image" src="/web/images/en.gif" name="submit" width="30" height="2%" alt="submit"/>
+					</form>	
+
+
+	<!--div class="form-group"-->
+	<label for="form-password"><font color='white'>ชื่อ :  </font><font color='yellow'>[ ผู้เฒ่าพเนจร ™ ]</font></label>
+	<!--/div-->
+
+										
+    <button class="btn btn-default" type="button" style="background-color:transparent;border-radius:2px;border:0px;font-size:18px;color:#FFF;padding-left:5px;padding-right:5px;font-family: 'rsuregular';" onclick="window.location.href='go:digital'"></i> 🏠 Home ™ </button>
+                   
+	<button class="btn btn-default" type="button" style="background-color:transparent;border-radius:2px;border:0px;font-size:18px;color:#FFF;padding-left:5px;padding-right:5px;font-family: 'rsuregular';" onclick="window.location.href='go:live'"></i> 📡 ถ่ายทอดสด ™</button>
+	
+	<button class="btn btn-default" type="button" style="background-color:transparent;border-radius:2px;border:0px;font-size:18px;color:#FFF;padding-left:5px;padding-right:5px;font-family: 'rsuregular';" onclick="window.location.href='go:main-serie'"></i> 🎞️ ดูซีรี่ย์ ™ </button>
+					
+	<button class="btn btn-default" type="button" style="background-color:transparent;border-radius:2px;border:0px;font-size:18px;color:#FFF;padding-left:5px;padding-right:5px;font-family: 'rsuregular';" onclick="window.location.href='go:main-movie'"></i>🎥 ดูหนัง ™  </button>					
+					
+	<button class="btn btn-default" type="button" style="background-color:transparent;border-radius:2px;border:0px;font-size:18px;color:#FFF;padding-left:5px;padding-right:5px;font-family: 'rsuregular';" onclick="window.location.href='go:main-movie'"></i>📽️ ดูสารคดี ™ </button>					
+					
+	<button class="btn btn-default" type="button" style="background-color:transparent;border-radius:2px;border:0px;font-size:18px;color:#FFF;padding-left:5px;padding-right:5px;font-family: 'rsuregular';" onclick="window.location.href='http://action_exit'"></i>🚪 ออก</button>					
+
+
+
+------------------------------------------------------------------------------------------
+
+
+        <div class="col-lg-9 col-md-9 col-xs-9" style="width:80%;padding-left:0px;padding-right:0px;">
+        <div class="row">
+        <div class="col-lg-12 col-md-12 col-xs-12">
+
+
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-info'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+		<center><p style="color:white">NFL Info</p></center>
+            </div>
+
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-hight'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+    <center><p style="color:white"> HightLight NFL </p></center>
+            </div>
+
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla1'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 1</p></center>
+            </div>
+ 
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla2'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 2</p></center>
+            </div>
+
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla3'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 3</p></center>
+            </div>
+ 
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla4'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 4</p></center>
+            </div>
+                          
+
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla5'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 5</p></center>
+            </div>
+ 
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla6'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 6</p></center>
+            </div>
+ 
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla7'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 7</p></center>
+            </div>
+  
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla8'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 8</p></center>
+            </div>
+  
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repla9'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 9</p></center>
+            </div>
+  
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repl10'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 10</p></center>
+            </div>
+  
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repl11'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 11</p></center>
+            </div>
+   
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repl12'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 12</p></center>
+            </div>
+   
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repl13'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 13</p></center>
+            </div>
+  
+     <div class="col-md-2 col-sm-2 col-xs-2 m-col-md-2" style="width:20%;height:300px;padding:10px">
+         <div class="movie-box">
+          <div class="movie-image">
+  <button class="btn btn-default btn-block btn-lg" type="button" style="background-size:cover;background-image:url(https://www.dropbox.com/scl/fi/uiwf1n6mv7tworwi7652w/logo-1.jpg?rlkey=4xi58d2gutpc9cnp91eem73pz&dl=1);width:170px;height:250.45px;background-position: center center;" onclick="window.location.href='go:nfl-repl14'" autofocus="">
+                        </button>
+                    </div>
+                </div>
+                <center><p style="color:white">Replay NFL 14</p></center>
+            </div>
+   
+           
+
+
+	
+
+
+</div>
+</div>
+</div>  
+</div> 
+</div>
+</div>
+</div>
