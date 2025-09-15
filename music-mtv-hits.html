@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <title>Live Stream by Clappr</title>
+  <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+  <style>
+    html,body{height:100%;margin:0;background:#000}
+    #player{width:100%;height:100vh;background:#000}
+  </style>
+</head>
+<body>
+  <div id="player"></div>
+  <script>
+    new Clappr.Player({
+      parentId: "#player",
+      source: "https://udzaa2238.github.io/tvtb-me/music-mtv-hits.m3u8",
+      autoPlay: true,
+      mute: true,
+      width: "100%",
+      height: "100%"
+    });
+  </script>
+</body>
+</html>
