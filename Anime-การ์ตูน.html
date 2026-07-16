@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+<meta charset='UTF-8'/>
+<meta content='article' property='og:type'/>
+<!-- Responsive viewport -->
+
+<!-- Title -->
+<title>ผู้เฒ่าพเนจร</title>
+      <script src='https://dl.dropbox.com/scl/fi/7eju356vejnl73e0vpphr/playerjs-2.js?rlkey=xeukdh0cdiytc57h92egq742u&dl=1' type='text/javascript'></script>
+   </head>
+
+   <body>
+   <style>
+      html,body{
+         margin:0;padding:0;width:100%;height:100%;
+      }
+      /* CSS สำหรับข้อความลายน้ำ */
+      .watermark-text {
+         position: absolute;
+         bottom: 2px;
+         right: 3px;
+         font-weight: bold;
+         color: gold; /* สีเหลืองทอง */
+         font-size: 15px;
+         /* ขอบสีขาวและเงาเล็กน้อย */
+         text-shadow: 
+            0px 0px 0 #FFF, -0px -0px 0 #FFF, /* ขอบขาว */
+            0px -0px 0 #FFF, -0px 0px 0 #FFF,
+            2px 2px 3px rgba(0,0,0,0.5); /* เงาเล็กน้อย */
+         z-index: 10; /* ให้ข้อความอยู่ด้านบนสุด */
+      }
+   </style>
+        
+   <div id="playerjs" style="width:100%;height:100%;"></div>
+   
+   <!-- เพิ่มข้อความลายน้ำ -->
+   <div class="watermark-text">ผู้เฒ่าพเนจร™</div>
+  
+ <script>
+   	
+   var player = new Playerjs({id:"playerjs", file:"https://dl.dropbox.com/scl/fi/obsxpjj7zbc3dtc1ux0om/E_Moviesdoofree_moviesdoofree_Category_-Anime-JS.txt?rlkey=7l939kpibmemi2wqc2d4nh421&dl=1",autoplay:1});
+
+   </script>
+
+</body>
+</html>
+
+
