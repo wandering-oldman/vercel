@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Love(X) Mini Series: Roommates in Love - Season 1",
+    "folder": [
+      {
+        "title": "ตอนที่ 1",
+        "file": "{Default}https://statics-01.quackquackcdn.com/049f3cf5-63ab-5692-afce-ca1b33c94baa/audio-default/audio.m3u8",
+        "poster": "https://statics-01.quackquackcdn.com/049f3cf5-63ab-5692-afce-ca1b33c94baa/poster.jpg",
+        "subtitle": ""
+      },
+      {
+        "title": "ตอนที่ 2",
+        "file": "{Default}https://statics-01.quackquackcdn.com/646ff3f5-98f2-578a-8f77-8d62aaf1702c/audio-default/audio.m3u8",
+        "poster": "https://statics-01.quackquackcdn.com/049f3cf5-63ab-5692-afce-ca1b33c94baa/poster.jpg",
+        "subtitle": ""
+      },
+      {
+        "title": "ตอนที่ 3",
+        "file": "{Default}https://statics-01.quackquackcdn.com/67dc961e-43be-5f12-8710-5be0e5bd731b/audio-default/audio.m3u8",
+        "poster": "https://statics-01.quackquackcdn.com/049f3cf5-63ab-5692-afce-ca1b33c94baa/poster.jpg",
+        "subtitle": ""
+      },
+      {
+        "title": "ตอนที่ 4",
+        "file": "{Default}https://statics-01.quackquackcdn.com/0dd7935d-df8e-5d71-90e4-667af8cfea65/audio-default/audio.m3u8",
+        "poster": "https://statics-01.quackquackcdn.com/049f3cf5-63ab-5692-afce-ca1b33c94baa/poster.jpg",
+        "subtitle": ""
+      },
+      {
+        "title": "ตอนที่ 5",
+        "file": "{Default}https://statics-02.quackquackcdn.com/e6a36855-de17-503b-80e0-d1ece6d0f769/audio-default/audio.m3u8",
+        "poster": "https://statics-01.quackquackcdn.com/049f3cf5-63ab-5692-afce-ca1b33c94baa/poster.jpg",
+        "subtitle": ""
+      },
+      {
+        "title": "ตอนที่ 6",
+        "file": "{Default}https://statics-01.quackquackcdn.com/7442d04d-dc38-5de6-aaf0-b999f8ea7f33/audio-default/audio.m3u8",
+        "poster": "https://statics-01.quackquackcdn.com/049f3cf5-63ab-5692-afce-ca1b33c94baa/poster.jpg",
+        "subtitle": ""
+      }
+    ]
+  }
+]

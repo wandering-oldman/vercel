@@ -1,0 +1,544 @@
+[
+  {
+    "title": "Lois & Clark: The New Adventures of Superman - Season 1",
+    "folder": [
+      {
+        "title": "ตอนที่ 1",
+        "file": "{Default}https://statics-02.quackquackcdn.com/e0c0f287-3274-5272-8e17-2732cd3b2913/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/e0c0f287-3274-5272-8e17-2732cd3b2913/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/e0c0f287-3274-5272-8e17-2732cd3b2913/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/e0c0f287-3274-5272-8e17-2732cd3b2913/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 2",
+        "file": "{Default}https://statics-02.quackquackcdn.com/98b75cdc-ff4e-5acb-896f-d9a736ed6ad0/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/98b75cdc-ff4e-5acb-896f-d9a736ed6ad0/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/98b75cdc-ff4e-5acb-896f-d9a736ed6ad0/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/98b75cdc-ff4e-5acb-896f-d9a736ed6ad0/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 3",
+        "file": "{Default}https://statics-02.quackquackcdn.com/3cecfadb-9737-59c1-8047-bed6dd644043/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/3cecfadb-9737-59c1-8047-bed6dd644043/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/3cecfadb-9737-59c1-8047-bed6dd644043/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/3cecfadb-9737-59c1-8047-bed6dd644043/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 4",
+        "file": "{Default}https://statics-02.quackquackcdn.com/0b50a1b1-d260-56d0-95a3-b98c04cd4c71/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/0b50a1b1-d260-56d0-95a3-b98c04cd4c71/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/0b50a1b1-d260-56d0-95a3-b98c04cd4c71/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/0b50a1b1-d260-56d0-95a3-b98c04cd4c71/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 5",
+        "file": "{Default}https://statics-02.quackquackcdn.com/967afc72-ff2a-5be5-bb9a-6c09785ae281/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/967afc72-ff2a-5be5-bb9a-6c09785ae281/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/967afc72-ff2a-5be5-bb9a-6c09785ae281/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/967afc72-ff2a-5be5-bb9a-6c09785ae281/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 6",
+        "file": "{Default}https://statics-02.quackquackcdn.com/c422f5d9-e207-5ed5-a7e4-4d0e5898a15e/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/c422f5d9-e207-5ed5-a7e4-4d0e5898a15e/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/c422f5d9-e207-5ed5-a7e4-4d0e5898a15e/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/c422f5d9-e207-5ed5-a7e4-4d0e5898a15e/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 7",
+        "file": "{Default}https://statics-02.quackquackcdn.com/c067e704-426f-507d-b963-7b92d6b908e9/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/c067e704-426f-507d-b963-7b92d6b908e9/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/c067e704-426f-507d-b963-7b92d6b908e9/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/c067e704-426f-507d-b963-7b92d6b908e9/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 8",
+        "file": "{Default}https://statics-02.quackquackcdn.com/7ddef3b0-ba6a-5e4a-8afc-cdae22d329b5/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/7ddef3b0-ba6a-5e4a-8afc-cdae22d329b5/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/7ddef3b0-ba6a-5e4a-8afc-cdae22d329b5/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/7ddef3b0-ba6a-5e4a-8afc-cdae22d329b5/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 9",
+        "file": "{Default}https://statics-02.quackquackcdn.com/df74cd6a-44c6-5cfe-b89b-81253baf5b99/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/df74cd6a-44c6-5cfe-b89b-81253baf5b99/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/df74cd6a-44c6-5cfe-b89b-81253baf5b99/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/df74cd6a-44c6-5cfe-b89b-81253baf5b99/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 10",
+        "file": "{Default}https://statics-02.quackquackcdn.com/cbfafe50-852f-5b3d-8bb0-54152d7462fc/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/cbfafe50-852f-5b3d-8bb0-54152d7462fc/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/cbfafe50-852f-5b3d-8bb0-54152d7462fc/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/cbfafe50-852f-5b3d-8bb0-54152d7462fc/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 11",
+        "file": "{Default}https://statics-02.quackquackcdn.com/5ec4bf80-a8ea-58b4-8e6b-4cc88d4b1e83/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/5ec4bf80-a8ea-58b4-8e6b-4cc88d4b1e83/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/5ec4bf80-a8ea-58b4-8e6b-4cc88d4b1e83/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/5ec4bf80-a8ea-58b4-8e6b-4cc88d4b1e83/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 12",
+        "file": "{Default}https://statics-02.quackquackcdn.com/2f801dfe-ff95-5a42-80c7-865b5964bd30/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/2f801dfe-ff95-5a42-80c7-865b5964bd30/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/2f801dfe-ff95-5a42-80c7-865b5964bd30/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/2f801dfe-ff95-5a42-80c7-865b5964bd30/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 13",
+        "file": "{Default}https://statics-02.quackquackcdn.com/8e8d1e83-848b-547b-b02c-3ceaa6e83d27/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/8e8d1e83-848b-547b-b02c-3ceaa6e83d27/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/8e8d1e83-848b-547b-b02c-3ceaa6e83d27/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/8e8d1e83-848b-547b-b02c-3ceaa6e83d27/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 14",
+        "file": "{Default}https://statics-02.quackquackcdn.com/f3e2f464-f92d-53e1-8dc4-ec41f88d7b51/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/f3e2f464-f92d-53e1-8dc4-ec41f88d7b51/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/f3e2f464-f92d-53e1-8dc4-ec41f88d7b51/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/f3e2f464-f92d-53e1-8dc4-ec41f88d7b51/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 15",
+        "file": "{Default}https://statics-02.quackquackcdn.com/e08a62d0-834c-5a37-9588-5aa99c443fe1/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/e08a62d0-834c-5a37-9588-5aa99c443fe1/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/e08a62d0-834c-5a37-9588-5aa99c443fe1/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/e08a62d0-834c-5a37-9588-5aa99c443fe1/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 16",
+        "file": "{Default}https://statics-02.quackquackcdn.com/ff403abc-cedf-58b9-8188-e152f7b05547/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/ff403abc-cedf-58b9-8188-e152f7b05547/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/ff403abc-cedf-58b9-8188-e152f7b05547/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/ff403abc-cedf-58b9-8188-e152f7b05547/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 17",
+        "file": "{Default}https://statics-02.quackquackcdn.com/77de7823-28c5-58ca-bb83-9520cff4d277/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/77de7823-28c5-58ca-bb83-9520cff4d277/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/77de7823-28c5-58ca-bb83-9520cff4d277/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/77de7823-28c5-58ca-bb83-9520cff4d277/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 18",
+        "file": "{Default}https://statics-02.quackquackcdn.com/a22fc37e-17d7-5d80-8883-c661a7ea3313/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/a22fc37e-17d7-5d80-8883-c661a7ea3313/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/a22fc37e-17d7-5d80-8883-c661a7ea3313/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/a22fc37e-17d7-5d80-8883-c661a7ea3313/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 19",
+        "file": "{Default}https://statics-02.quackquackcdn.com/4077c3b7-6344-5738-9ec1-3fc31cb47cf0/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/4077c3b7-6344-5738-9ec1-3fc31cb47cf0/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/4077c3b7-6344-5738-9ec1-3fc31cb47cf0/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/4077c3b7-6344-5738-9ec1-3fc31cb47cf0/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 20",
+        "file": "{Default}https://statics-02.quackquackcdn.com/4ee2ae89-b54f-533f-ad85-9b6293cd6197/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/4ee2ae89-b54f-533f-ad85-9b6293cd6197/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/4ee2ae89-b54f-533f-ad85-9b6293cd6197/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/4ee2ae89-b54f-533f-ad85-9b6293cd6197/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 21",
+        "file": "{Default}https://statics-02.quackquackcdn.com/f75c7602-6721-5e9e-be32-7098c4ebbfb2/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/f75c7602-6721-5e9e-be32-7098c4ebbfb2/sub_eng.vtt,[Tha]https://statics-02.quackquackcdn.com/f75c7602-6721-5e9e-be32-7098c4ebbfb2/sub_tha.vtt"
+      }
+    ]
+  },
+  {
+    "title": "Lois & Clark: The New Adventures of Superman - Season 2",
+    "folder": [
+      {
+        "title": "ตอนที่ 1",
+        "file": "{Default}https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 2",
+        "file": "{Default}https://statics-02.quackquackcdn.com/03ae3190-f553-5d3e-810f-811c00d4c5b2/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/03ae3190-f553-5d3e-810f-811c00d4c5b2/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/03ae3190-f553-5d3e-810f-811c00d4c5b2/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/03ae3190-f553-5d3e-810f-811c00d4c5b2/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 3",
+        "file": "{Default}https://statics-02.quackquackcdn.com/d9dc6d9f-e193-5df5-b59f-f4836241eabf/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/d9dc6d9f-e193-5df5-b59f-f4836241eabf/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/d9dc6d9f-e193-5df5-b59f-f4836241eabf/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/d9dc6d9f-e193-5df5-b59f-f4836241eabf/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 4",
+        "file": "{Default}https://statics-02.quackquackcdn.com/ac93108c-e436-5522-893d-b76c5eb21ab2/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/ac93108c-e436-5522-893d-b76c5eb21ab2/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/ac93108c-e436-5522-893d-b76c5eb21ab2/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/ac93108c-e436-5522-893d-b76c5eb21ab2/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 5",
+        "file": "{Default}https://statics-02.quackquackcdn.com/c8576210-8ee6-574b-afd4-08a3ba1c7c4d/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/c8576210-8ee6-574b-afd4-08a3ba1c7c4d/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/c8576210-8ee6-574b-afd4-08a3ba1c7c4d/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/c8576210-8ee6-574b-afd4-08a3ba1c7c4d/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 6",
+        "file": "{Default}https://statics-02.quackquackcdn.com/4710388a-5f33-5a60-baa2-edb3f3ef7533/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/4710388a-5f33-5a60-baa2-edb3f3ef7533/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/4710388a-5f33-5a60-baa2-edb3f3ef7533/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/4710388a-5f33-5a60-baa2-edb3f3ef7533/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 7",
+        "file": "{Default}https://statics-02.quackquackcdn.com/90a22c49-d272-5006-8cfb-0d695575e733/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/90a22c49-d272-5006-8cfb-0d695575e733/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/90a22c49-d272-5006-8cfb-0d695575e733/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/90a22c49-d272-5006-8cfb-0d695575e733/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 8",
+        "file": "{Default}https://statics-02.quackquackcdn.com/73ec6f0e-469c-5622-913c-9a18c7fcb901/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/73ec6f0e-469c-5622-913c-9a18c7fcb901/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/73ec6f0e-469c-5622-913c-9a18c7fcb901/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/73ec6f0e-469c-5622-913c-9a18c7fcb901/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 9",
+        "file": "{Default}https://statics-02.quackquackcdn.com/1754c62b-bda6-5346-8da0-abcc2f414c38/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/1754c62b-bda6-5346-8da0-abcc2f414c38/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/1754c62b-bda6-5346-8da0-abcc2f414c38/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/1754c62b-bda6-5346-8da0-abcc2f414c38/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 10",
+        "file": "{Default}https://statics-02.quackquackcdn.com/41a760e4-d9aa-5e2c-bd0e-53a93f58764c/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/41a760e4-d9aa-5e2c-bd0e-53a93f58764c/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/41a760e4-d9aa-5e2c-bd0e-53a93f58764c/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/41a760e4-d9aa-5e2c-bd0e-53a93f58764c/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 11",
+        "file": "{Default}https://statics-02.quackquackcdn.com/ccaf0f39-560f-5478-92e4-d61083dc50ec/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/ccaf0f39-560f-5478-92e4-d61083dc50ec/sub_eng.vtt,[Tha]https://statics-02.quackquackcdn.com/ccaf0f39-560f-5478-92e4-d61083dc50ec/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 12",
+        "file": "{Default}https://statics-02.quackquackcdn.com/60d6c967-1003-58a9-8798-7d3b5791b4f3/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/60d6c967-1003-58a9-8798-7d3b5791b4f3/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/60d6c967-1003-58a9-8798-7d3b5791b4f3/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/60d6c967-1003-58a9-8798-7d3b5791b4f3/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 13",
+        "file": "{Default}https://statics-02.quackquackcdn.com/9b2715a2-0a96-5ce7-8bfb-53f376696f17/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/9b2715a2-0a96-5ce7-8bfb-53f376696f17/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/9b2715a2-0a96-5ce7-8bfb-53f376696f17/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/9b2715a2-0a96-5ce7-8bfb-53f376696f17/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 14",
+        "file": "{Default}https://statics-02.quackquackcdn.com/0a15c035-ca5f-582c-b209-8783cb684358/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/0a15c035-ca5f-582c-b209-8783cb684358/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/0a15c035-ca5f-582c-b209-8783cb684358/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/0a15c035-ca5f-582c-b209-8783cb684358/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 15",
+        "file": "{Default}https://statics-02.quackquackcdn.com/b2c261de-9a81-5aa7-8e47-09bb476b327f/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/b2c261de-9a81-5aa7-8e47-09bb476b327f/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/b2c261de-9a81-5aa7-8e47-09bb476b327f/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/b2c261de-9a81-5aa7-8e47-09bb476b327f/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 16",
+        "file": "{Default}https://statics-02.quackquackcdn.com/fb026b99-faee-5ca2-aab2-d0245dbddada/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/fb026b99-faee-5ca2-aab2-d0245dbddada/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/fb026b99-faee-5ca2-aab2-d0245dbddada/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/fb026b99-faee-5ca2-aab2-d0245dbddada/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 17",
+        "file": "{Default}https://statics-02.quackquackcdn.com/e291e03b-1e55-5ad4-b2d4-aa0a781858b6/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/e291e03b-1e55-5ad4-b2d4-aa0a781858b6/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/e291e03b-1e55-5ad4-b2d4-aa0a781858b6/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/e291e03b-1e55-5ad4-b2d4-aa0a781858b6/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 18",
+        "file": "{Default}https://statics-02.quackquackcdn.com/d045bd61-05a4-5948-9e7f-1ac40363e9f3/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/d045bd61-05a4-5948-9e7f-1ac40363e9f3/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/d045bd61-05a4-5948-9e7f-1ac40363e9f3/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/d045bd61-05a4-5948-9e7f-1ac40363e9f3/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 19",
+        "file": "{Default}https://statics-02.quackquackcdn.com/cc89b177-f644-52a9-b8df-03b8af84c50b/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/cc89b177-f644-52a9-b8df-03b8af84c50b/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/cc89b177-f644-52a9-b8df-03b8af84c50b/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/cc89b177-f644-52a9-b8df-03b8af84c50b/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 20",
+        "file": "{Default}https://statics-02.quackquackcdn.com/0872567d-857a-583e-bf7a-44fae6cfd84e/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/0872567d-857a-583e-bf7a-44fae6cfd84e/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/0872567d-857a-583e-bf7a-44fae6cfd84e/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/0872567d-857a-583e-bf7a-44fae6cfd84e/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 21",
+        "file": "{Default}https://statics-02.quackquackcdn.com/73c5a555-d55a-575f-84e9-07b10be0f4ae/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/73c5a555-d55a-575f-84e9-07b10be0f4ae/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/73c5a555-d55a-575f-84e9-07b10be0f4ae/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/73c5a555-d55a-575f-84e9-07b10be0f4ae/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 22",
+        "file": "{Default}https://statics-02.quackquackcdn.com/c158a252-06c8-5a89-a08b-bcf78c187526/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/c158a252-06c8-5a89-a08b-bcf78c187526/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/c158a252-06c8-5a89-a08b-bcf78c187526/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/c158a252-06c8-5a89-a08b-bcf78c187526/sub_tha.vtt"
+      }
+    ]
+  },
+  {
+    "title": "Lois & Clark: The New Adventures of Superman - Season 3",
+    "folder": [
+      {
+        "title": "ตอนที่ 1",
+        "file": "{Default}https://statics-02.quackquackcdn.com/1f25dfe4-eea9-5163-afc8-509edf6ca730/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/1f25dfe4-eea9-5163-afc8-509edf6ca730/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/1f25dfe4-eea9-5163-afc8-509edf6ca730/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/1f25dfe4-eea9-5163-afc8-509edf6ca730/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 2",
+        "file": "{Default}https://statics-02.quackquackcdn.com/84cf68f5-dc66-51a6-ae1f-88fea2de0fd0/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/84cf68f5-dc66-51a6-ae1f-88fea2de0fd0/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/84cf68f5-dc66-51a6-ae1f-88fea2de0fd0/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/84cf68f5-dc66-51a6-ae1f-88fea2de0fd0/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 3",
+        "file": "{Default}https://statics-02.quackquackcdn.com/0a71c08b-a135-5992-9201-9d29b379d7ae/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/0a71c08b-a135-5992-9201-9d29b379d7ae/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/0a71c08b-a135-5992-9201-9d29b379d7ae/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/0a71c08b-a135-5992-9201-9d29b379d7ae/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 4",
+        "file": "{Default}https://statics-02.quackquackcdn.com/be94bae2-fea3-5b48-be94-643542839ae1/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/be94bae2-fea3-5b48-be94-643542839ae1/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/be94bae2-fea3-5b48-be94-643542839ae1/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/be94bae2-fea3-5b48-be94-643542839ae1/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 5",
+        "file": "{Default}https://statics-02.quackquackcdn.com/0c6429d2-f79f-5aaa-b068-06e243e3b240/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/0c6429d2-f79f-5aaa-b068-06e243e3b240/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/0c6429d2-f79f-5aaa-b068-06e243e3b240/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/0c6429d2-f79f-5aaa-b068-06e243e3b240/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 6",
+        "file": "{Default}https://statics-02.quackquackcdn.com/20091c1f-cb83-5a23-a928-07db21254f92/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/20091c1f-cb83-5a23-a928-07db21254f92/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/20091c1f-cb83-5a23-a928-07db21254f92/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/20091c1f-cb83-5a23-a928-07db21254f92/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 7",
+        "file": "{Default}https://statics-02.quackquackcdn.com/6bd1b9f5-f4d5-599f-a6af-d07b282dd54d/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/6bd1b9f5-f4d5-599f-a6af-d07b282dd54d/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/6bd1b9f5-f4d5-599f-a6af-d07b282dd54d/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/6bd1b9f5-f4d5-599f-a6af-d07b282dd54d/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 8",
+        "file": "{Default}https://statics-02.quackquackcdn.com/76524e16-bf6f-5613-9aa1-666e8f74b192/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/76524e16-bf6f-5613-9aa1-666e8f74b192/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/76524e16-bf6f-5613-9aa1-666e8f74b192/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/76524e16-bf6f-5613-9aa1-666e8f74b192/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 9",
+        "file": "{Default}https://statics-02.quackquackcdn.com/c753ed47-ca28-5fc7-8b54-3c4f4bbc7c27/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/c753ed47-ca28-5fc7-8b54-3c4f4bbc7c27/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/c753ed47-ca28-5fc7-8b54-3c4f4bbc7c27/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/c753ed47-ca28-5fc7-8b54-3c4f4bbc7c27/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 10",
+        "file": "{Default}https://statics-02.quackquackcdn.com/8b01970c-6d69-54ee-9324-30270ab077d7/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/8b01970c-6d69-54ee-9324-30270ab077d7/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/8b01970c-6d69-54ee-9324-30270ab077d7/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/8b01970c-6d69-54ee-9324-30270ab077d7/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 11",
+        "file": "{Default}https://statics-02.quackquackcdn.com/5105e07b-56d2-585f-8636-326be4315f77/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/5105e07b-56d2-585f-8636-326be4315f77/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/5105e07b-56d2-585f-8636-326be4315f77/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/5105e07b-56d2-585f-8636-326be4315f77/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 12",
+        "file": "{Default}https://statics-02.quackquackcdn.com/3d67fd16-fdff-5eec-8033-45c099223c52/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/3d67fd16-fdff-5eec-8033-45c099223c52/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/3d67fd16-fdff-5eec-8033-45c099223c52/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/3d67fd16-fdff-5eec-8033-45c099223c52/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 13",
+        "file": "{Default}https://statics-02.quackquackcdn.com/d0e081cb-14e1-5e23-8979-b5a3c34f1adf/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/d0e081cb-14e1-5e23-8979-b5a3c34f1adf/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/d0e081cb-14e1-5e23-8979-b5a3c34f1adf/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/d0e081cb-14e1-5e23-8979-b5a3c34f1adf/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 14",
+        "file": "{Default}https://statics-02.quackquackcdn.com/ba49b6ac-cf4f-5eff-a5b8-5904e75929e7/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/ba49b6ac-cf4f-5eff-a5b8-5904e75929e7/sub_eng.vtt,[Tha]https://statics-02.quackquackcdn.com/ba49b6ac-cf4f-5eff-a5b8-5904e75929e7/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 15",
+        "file": "{Default}https://statics-02.quackquackcdn.com/d04c3473-2dc1-510a-ba5a-44e0827790f8/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/d04c3473-2dc1-510a-ba5a-44e0827790f8/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/d04c3473-2dc1-510a-ba5a-44e0827790f8/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/d04c3473-2dc1-510a-ba5a-44e0827790f8/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 16",
+        "file": "{Default}https://statics-02.quackquackcdn.com/d370e95b-16ef-5990-b6da-f7c53f1d1ceb/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/d370e95b-16ef-5990-b6da-f7c53f1d1ceb/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/d370e95b-16ef-5990-b6da-f7c53f1d1ceb/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/d370e95b-16ef-5990-b6da-f7c53f1d1ceb/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 17",
+        "file": "{Default}https://statics-02.quackquackcdn.com/1ed12e12-7598-5a3d-b54c-1cac28705865/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/1ed12e12-7598-5a3d-b54c-1cac28705865/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/1ed12e12-7598-5a3d-b54c-1cac28705865/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/1ed12e12-7598-5a3d-b54c-1cac28705865/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 18",
+        "file": "{Default}https://statics-02.quackquackcdn.com/907997de-beb3-5a5f-895c-7d0e0a415347/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/907997de-beb3-5a5f-895c-7d0e0a415347/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/907997de-beb3-5a5f-895c-7d0e0a415347/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/907997de-beb3-5a5f-895c-7d0e0a415347/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 19",
+        "file": "{Default}https://statics-02.quackquackcdn.com/63fdf2c4-96ba-5888-9277-b530e0cfee5d/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/63fdf2c4-96ba-5888-9277-b530e0cfee5d/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/63fdf2c4-96ba-5888-9277-b530e0cfee5d/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/63fdf2c4-96ba-5888-9277-b530e0cfee5d/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 20",
+        "file": "{Default}https://statics-02.quackquackcdn.com/25ed7026-aa00-57bf-9c95-80e9b7576640/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/25ed7026-aa00-57bf-9c95-80e9b7576640/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/25ed7026-aa00-57bf-9c95-80e9b7576640/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/25ed7026-aa00-57bf-9c95-80e9b7576640/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 21",
+        "file": "{Default}https://statics-02.quackquackcdn.com/b63c6ca3-24e2-50a0-b0d9-1416563b738e/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/b63c6ca3-24e2-50a0-b0d9-1416563b738e/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/b63c6ca3-24e2-50a0-b0d9-1416563b738e/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/b63c6ca3-24e2-50a0-b0d9-1416563b738e/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 22",
+        "file": "{Default}https://statics-02.quackquackcdn.com/65d26f6c-4598-5a18-872c-dec4e6329d35/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/65d26f6c-4598-5a18-872c-dec4e6329d35/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/65d26f6c-4598-5a18-872c-dec4e6329d35/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/65d26f6c-4598-5a18-872c-dec4e6329d35/sub_tha.vtt"
+      }
+    ]
+  },
+  {
+    "title": "Lois & Clark: The New Adventures of Superman - Season 4",
+    "folder": [
+      {
+        "title": "ตอนที่ 1",
+        "file": "{Default}https://statics-02.quackquackcdn.com/b8b2b66a-8d0e-5208-b9ce-2c5f1a1e0c0d/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/b8b2b66a-8d0e-5208-b9ce-2c5f1a1e0c0d/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/b8b2b66a-8d0e-5208-b9ce-2c5f1a1e0c0d/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/b8b2b66a-8d0e-5208-b9ce-2c5f1a1e0c0d/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 2",
+        "file": "{Default}https://statics-02.quackquackcdn.com/3708db21-2b15-5f8a-9bbc-0d9e4c65eaf2/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/3708db21-2b15-5f8a-9bbc-0d9e4c65eaf2/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/3708db21-2b15-5f8a-9bbc-0d9e4c65eaf2/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/3708db21-2b15-5f8a-9bbc-0d9e4c65eaf2/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 3",
+        "file": "{Default}https://statics-02.quackquackcdn.com/dff6c738-2daf-5f6b-acbe-cb9dfd0ccf85/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/dff6c738-2daf-5f6b-acbe-cb9dfd0ccf85/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/dff6c738-2daf-5f6b-acbe-cb9dfd0ccf85/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/dff6c738-2daf-5f6b-acbe-cb9dfd0ccf85/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 4",
+        "file": "{Default}https://statics-02.quackquackcdn.com/bd32b101-c614-5679-a698-094105634d3f/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/bd32b101-c614-5679-a698-094105634d3f/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/bd32b101-c614-5679-a698-094105634d3f/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/bd32b101-c614-5679-a698-094105634d3f/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 5",
+        "file": "{Default}https://statics-02.quackquackcdn.com/c2e9c436-0e5c-58e9-a589-3ce6a6480097/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/c2e9c436-0e5c-58e9-a589-3ce6a6480097/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/c2e9c436-0e5c-58e9-a589-3ce6a6480097/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/c2e9c436-0e5c-58e9-a589-3ce6a6480097/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 6",
+        "file": "{Default}https://statics-02.quackquackcdn.com/4e516473-2aa0-59f1-a1e2-ab804b3eee2f/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/4e516473-2aa0-59f1-a1e2-ab804b3eee2f/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/4e516473-2aa0-59f1-a1e2-ab804b3eee2f/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/4e516473-2aa0-59f1-a1e2-ab804b3eee2f/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 7",
+        "file": "{Default}https://statics-02.quackquackcdn.com/2149cd17-6934-56c9-abc2-0cbca04b56f0/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/2149cd17-6934-56c9-abc2-0cbca04b56f0/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/2149cd17-6934-56c9-abc2-0cbca04b56f0/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/2149cd17-6934-56c9-abc2-0cbca04b56f0/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 8",
+        "file": "{Default}https://statics-02.quackquackcdn.com/6cd143ff-51cd-5390-a86d-8371adf29208/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/6cd143ff-51cd-5390-a86d-8371adf29208/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/6cd143ff-51cd-5390-a86d-8371adf29208/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/6cd143ff-51cd-5390-a86d-8371adf29208/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 9",
+        "file": "{Default}https://statics-02.quackquackcdn.com/eb2d745f-1b7e-5511-abc6-f2d806d9b8da/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/eb2d745f-1b7e-5511-abc6-f2d806d9b8da/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/eb2d745f-1b7e-5511-abc6-f2d806d9b8da/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/eb2d745f-1b7e-5511-abc6-f2d806d9b8da/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 10",
+        "file": "{Default}https://statics-02.quackquackcdn.com/a4704978-181f-58f7-818c-7b2dd3e70643/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/a4704978-181f-58f7-818c-7b2dd3e70643/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/a4704978-181f-58f7-818c-7b2dd3e70643/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/a4704978-181f-58f7-818c-7b2dd3e70643/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 11",
+        "file": "{Default}https://statics-02.quackquackcdn.com/a3ae92e6-b913-589b-afc5-dd5bb44b9894/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/a3ae92e6-b913-589b-afc5-dd5bb44b9894/sub_eng.vtt,[Tha]https://statics-02.quackquackcdn.com/a3ae92e6-b913-589b-afc5-dd5bb44b9894/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 12",
+        "file": "{Default}https://statics-02.quackquackcdn.com/6c163e57-0d5d-5a79-968e-66906106e554/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/6c163e57-0d5d-5a79-968e-66906106e554/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/6c163e57-0d5d-5a79-968e-66906106e554/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/6c163e57-0d5d-5a79-968e-66906106e554/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 13",
+        "file": "{Default}https://statics-02.quackquackcdn.com/17a3558c-3677-55fc-972a-8222c7f4615e/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/17a3558c-3677-55fc-972a-8222c7f4615e/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/17a3558c-3677-55fc-972a-8222c7f4615e/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/17a3558c-3677-55fc-972a-8222c7f4615e/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 14",
+        "file": "{Default}https://statics-02.quackquackcdn.com/b94d4365-c2f4-5571-a129-84684db56266/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/b94d4365-c2f4-5571-a129-84684db56266/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/b94d4365-c2f4-5571-a129-84684db56266/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/b94d4365-c2f4-5571-a129-84684db56266/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 15",
+        "file": "{Default}https://statics-02.quackquackcdn.com/611cf6f4-4ce6-5b0d-9f3f-edb4659a1932/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/611cf6f4-4ce6-5b0d-9f3f-edb4659a1932/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/611cf6f4-4ce6-5b0d-9f3f-edb4659a1932/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/611cf6f4-4ce6-5b0d-9f3f-edb4659a1932/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 16",
+        "file": "{Default}https://statics-02.quackquackcdn.com/018239c6-b6d1-59d2-941b-7cd3b3ad7d35/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/018239c6-b6d1-59d2-941b-7cd3b3ad7d35/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/018239c6-b6d1-59d2-941b-7cd3b3ad7d35/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/018239c6-b6d1-59d2-941b-7cd3b3ad7d35/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 17",
+        "file": "{Default}https://statics-02.quackquackcdn.com/99da9567-8aa7-505e-8020-c39b1e85ed11/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/99da9567-8aa7-505e-8020-c39b1e85ed11/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/99da9567-8aa7-505e-8020-c39b1e85ed11/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/99da9567-8aa7-505e-8020-c39b1e85ed11/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 18",
+        "file": "{Default}https://statics-02.quackquackcdn.com/3750fa67-01a9-5a89-8e12-b248e2c54af6/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/3750fa67-01a9-5a89-8e12-b248e2c54af6/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/3750fa67-01a9-5a89-8e12-b248e2c54af6/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/3750fa67-01a9-5a89-8e12-b248e2c54af6/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 19",
+        "file": "{Default}https://statics-02.quackquackcdn.com/eef18ede-3e29-51b2-89c7-6cf0b726629b/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/eef18ede-3e29-51b2-89c7-6cf0b726629b/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/eef18ede-3e29-51b2-89c7-6cf0b726629b/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/eef18ede-3e29-51b2-89c7-6cf0b726629b/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 20",
+        "file": "{Default}https://statics-02.quackquackcdn.com/dd594d1b-b3f5-54c2-aa95-6076dd7e3815/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/dd594d1b-b3f5-54c2-aa95-6076dd7e3815/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/dd594d1b-b3f5-54c2-aa95-6076dd7e3815/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/dd594d1b-b3f5-54c2-aa95-6076dd7e3815/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 21",
+        "file": "{Default}https://statics-02.quackquackcdn.com/0383a738-d76a-509b-8cfc-b4db5487f26c/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/0383a738-d76a-509b-8cfc-b4db5487f26c/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/0383a738-d76a-509b-8cfc-b4db5487f26c/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/0383a738-d76a-509b-8cfc-b4db5487f26c/sub_tha.vtt"
+      },
+      {
+        "title": "ตอนที่ 22",
+        "file": "{Default}https://statics-02.quackquackcdn.com/3105de9d-9941-5b0b-887a-3ec69171a8ab/audio-default/audio.m3u8",
+        "poster": "https://statics-02.quackquackcdn.com/7ca09712-ecfe-5317-a4f6-8704c421e8f0/poster.jpg",
+        "subtitle": "[Eng]https://statics-02.quackquackcdn.com/3105de9d-9941-5b0b-887a-3ec69171a8ab/sub_eng.vtt,[Eng]https://statics-02.quackquackcdn.com/3105de9d-9941-5b0b-887a-3ec69171a8ab/sub_eng_1.vtt,[Tha]https://statics-02.quackquackcdn.com/3105de9d-9941-5b0b-887a-3ec69171a8ab/sub_tha.vtt"
+      }
+    ]
+  }
+]
